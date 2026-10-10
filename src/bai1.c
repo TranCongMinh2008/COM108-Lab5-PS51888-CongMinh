@@ -23,19 +23,23 @@ int main() {
 
 // --- SINH VIÊN VIẾT CODE CÁC HÀM DƯỚI ĐÂY ---
 float nhapSanLuongWh() {
+  float wh;
   // TODO: Viết code nhập sản lượng sử dụng vòng lặp do...while (yêu cầu > 0)
+  do {
+    printf("Tieu thu (Wh): ");
+    scanf("%f", &wh);
+  } while (wh <= 0);
 
-  return 0.0;
+  return wh;
 }
 
 float doiWhSangKwh(float wh) {
   // TODO: Viết code quy đổi (lưu ý tránh lỗi chia số nguyên)
-
-  return 0.0;
+  return wh / 1000.0;
 }
 
 float tinhTienDien(float kwh, float donGia) {
   // TODO: Tính tiền
 
-  return 0.0;
+  return kwh * donGia;
 }
