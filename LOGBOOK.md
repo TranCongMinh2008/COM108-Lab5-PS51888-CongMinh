@@ -1,8 +1,8 @@
 # NHẬT KÝ THỰC HIỆN LAB 5 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
-* **Link Repository cá nhân:** 
+* **Họ và tên: Trần Công Minh** 
+* **Mã sinh viên: PS51888** 
+* **Link Repository cá nhân: https://github.com/TranCongMinh2008/COM108-Lab5-PS51888-CongMinh.git** 
 
 ---
 
